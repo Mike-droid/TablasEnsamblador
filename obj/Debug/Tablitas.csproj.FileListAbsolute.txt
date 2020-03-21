@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\Tablitas\bin\Debug\Tablitas.exe.config
+C:\Users\migue\source\repos\Tablitas\bin\Debug\Tablitas.exe
+C:\Users\migue\source\repos\Tablitas\bin\Debug\Tablitas.pdb
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Tablitas\obj\Debug\MainWindow.g.cs
+C:\Users\migue\source\repos\Tablitas\obj\Debug\App.g.cs
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas_MarkupCompile.cache
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas_MarkupCompile.lref
+C:\Users\migue\source\repos\Tablitas\obj\Debug\MainWindow.baml
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas.g.resources
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas.Properties.Resources.resources
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas.exe
+C:\Users\migue\source\repos\Tablitas\obj\Debug\Tablitas.pdb
